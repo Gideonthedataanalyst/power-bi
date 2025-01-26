@@ -1,0 +1,14 @@
+import data in power bi, go to import data from excel. then loook at navigator. load the data
+go to table view, click on it to display the data,
+model tab used to joins multiple tables. 
+go to report view, then data tab, then sheets, drop down and check on price and store, notice a table, select column chart,drag store to legend, drag to make it larger
+  start a new one, click outside the graph,  on data select product and price, and store as well.pick clustered column chArt
+
+on vizualization tab , format your visuals, then general , you can adjust a few things , CHANGE TITLES
+
+
+
+ON A NEW PAGE, Click price and product. drag product to legend . create a column chart. do the same for line graphs , drag price to legend.create line and clustered column chart, card, pie chart, donought chart, etc
+
+
+on card,go to vizualization then fields,  you can check for max, min , average, now re arrange the dashbOARD.
